@@ -1,4 +1,4 @@
-<a href="http://react-pwa.surenatoyan.com/" target="_blank" rel="noreferrer">
+<a href="http://github.com/paycuan.io/" target="_blank" rel="noreferrer">
  <img src="./public/images/cover.png" width="600" title="Base App">
 </a>
 
